@@ -1,5 +1,5 @@
+# GIT教程
+
 git config –global core.editor vim
 
-
-
-# GIT教程
+- feature- A
